@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+IntSub	IntSub.cpp	/^IntSub::IntSub(int idx, int sub) {$/;"	f	class:IntSub
+IntSub	IntSub.h	/^class IntSub {$/;"	c
+_INT_SUB_H_	IntSub.h	/^#define _INT_SUB_H_ /;"	d
+all	makefile	/^all:$/;"	t
+compare_strict_or_reflexive	orderSelection.cpp	/^struct compare_strict_or_reflexive {$/;"	s	file:
+idx	IntSub.h	/^        int idx;$/;"	m	class:IntSub	typeref:typename:int
+lessThan	orderSelection.cpp	/^bool lessThan(const Domain& a, const Domain& b) {$/;"	f	typeref:typename:bool
+main	orderSelection.cpp	/^int main() {$/;"	f	typeref:typename:int
+operator ()	orderSelection.cpp	/^    bool operator()(const Domain_R &a, const Domain_R &b, R r) {$/;"	f	struct:compare_strict_or_reflexive	typeref:typename:bool	file:
+operator <	IntSub.cpp	/^bool IntSub::operator<(const IntSub &intSub) const {$/;"	f	class:IntSub	typeref:typename:bool
+operator <<	IntSub.cpp	/^std::ostream & operator<<(std::ostream &os, const IntSub &intSub) {$/;"	f	typeref:typename:std::ostream &
+relation	orderSelection.cpp	/^using relation = bool (*)(const Domain& a, const Domain& b);$/;"	t	file:
+select_0_2	orderSelection.cpp	/^const Domain& select_0_2(const Domain& a, const Domain& b, R r) {$/;"	f	typeref:typename:const Domain &
+select_0_2_stability	orderSelection.cpp	/^const Domain_R & select_0_2_stability(const Domain_R &a, const Domain_R &b, R r) {$/;"	f	typeref:typename:const Domain_R &
+select_0_3	orderSelection.cpp	/^const Domain& select_0_3(const Domain& a, const Domain& b, const Domain& c, R r) {$/;"	f	typeref:typename:const Domain &
+select_1_2	orderSelection.cpp	/^const Domain& select_1_2(const Domain& a, const Domain& b, R r) {$/;"	f	typeref:typename:const Domain &
+select_1_3	orderSelection.cpp	/^const Domain& select_1_3(const Domain& a, const Domain& b, const Domain& c, R r) {$/;"	f	typeref:typename:const Domain &
+select_1_4	orderSelection.cpp	/^const Domain& select_1_4(const Domain &a, const Domain &b, const Domain &c, const Domain &d, R r/;"	f	typeref:typename:const Domain &
+select_1_4_ab	orderSelection.cpp	/^const Domain& select_1_4_ab(const Domain &a, const Domain &b, const Domain &c, const Domain &d, /;"	f	typeref:typename:const Domain &
+select_1_4_ab_cd	orderSelection.cpp	/^const Domain& select_1_4_ab_cd(const Domain &a, const Domain &b, const Domain &c, const Domain &/;"	f	typeref:typename:const Domain &
+select_1_4_ab_cd_stability	orderSelection.cpp	/^const Domain_R & select_1_4_ab_cd_stability(const Domain_R &a, const Domain_R &b, const Domain_R/;"	f	typeref:typename:const Domain_R &
+select_1_4_ab_stability	orderSelection.cpp	/^const Domain_R & select_1_4_ab_stability(const Domain_R &a, const Domain_R &b, const Domain_R &c/;"	f	typeref:typename:const Domain_R &
+select_1_4_stability	orderSelection.cpp	/^const Domain_R & select_1_4_stability(const Domain_R &a, const Domain_R &b, const Domain_R &c, c/;"	f	typeref:typename:const Domain_R &
+select_2_3	orderSelection.cpp	/^const Domain& select_2_3(const Domain &a, const Domain &b, const Domain &c, R r) {$/;"	f	typeref:typename:const Domain &
+select_2_5	orderSelection.cpp	/^const Domain & select_2_5(const Domain &a, const Domain &b, const Domain &c, const Domain &d, co/;"	f	typeref:typename:const Domain &
+select_2_5_ab	orderSelection.cpp	/^const Domain & select_2_5_ab(const Domain &a, const Domain &b, const Domain &c, const Domain &d,/;"	f	typeref:typename:const Domain &
+select_2_5_ab_cd	orderSelection.cpp	/^const Domain & select_2_5_ab_cd(const Domain &a, const Domain &b, const Domain &c, const Domain /;"	f	typeref:typename:const Domain &
+select_2_5_ab_cd_stability	orderSelection.cpp	/^const Domain_R & select_2_5_ab_cd_stability(const Domain_R &a, const Domain_R &b, const Domain_R/;"	f	typeref:typename:const Domain_R &
+select_2_5_ab_stability	orderSelection.cpp	/^const Domain_R & select_2_5_ab_stability(const Domain_R &a, const Domain_R &b, const Domain_R &c/;"	f	typeref:typename:const Domain_R &
+select_2_5_stability	orderSelection.cpp	/^const Domain_R & select_2_5_stability(const Domain_R &a, const Domain_R &b, const Domain_R &c, c/;"	f	typeref:typename:const Domain_R &
+subscript	IntSub.h	/^        int subscript;$/;"	m	class:IntSub	typeref:typename:int

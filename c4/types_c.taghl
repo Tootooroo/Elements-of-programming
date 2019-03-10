@@ -1,0 +1,7 @@
+syn keyword CTagsStructure compare_strict_or_reflexive
+syn keyword CTagsMember subscript idx
+syn keyword CTagsFunction select_1_4_ab_cd main select_1_4 select_2_5_ab_stability select_1_4_stability select_1_2 select_2_3 select_2_5_ab select_2_5_ab_cd select_2_5_ab_cd_stability select_0_2_stability select_1_4_ab select_2_5 IntSub select_2_5_stability select_1_4_ab_cd_stability select_1_4_ab_stability select_1_3 select_0_3 lessThan select_0_2
+syn keyword CTagsType relation
+syn keyword CTagsDefinedName _INT_SUB_H_
+syn keyword CTagsClass IntSub
+

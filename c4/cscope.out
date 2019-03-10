@@ -1,0 +1,1534 @@
+cscope 15 $HOME/Projects/elp/c4               0000006790
+	@IntSub.cpp
+
+1 
+	~"IÁSub.h
+"
+
+4 
+	gIÁSub
+::
+	$IÁSub
+(
+idx
+, 
+sub
+) {
+
+5 
+this
+->
+idx
+ = idx;
+
+6 
+this
+->
+subsüt
+ = 
+sub
+;
+
+7 
+	}
+}
+
+9 
+boŞ
+ 
+	gIÁSub
+::
+İ”©Ü
+<(cÚ¡ 
+IÁSub
+ &
+štSub
+) const {
+
+10  
+idx
+ < 
+štSub
+.idx;
+
+13 
+	g¡d
+::
+o¡»am
+ & 
+İ”©Ü
+<<(
+¡d
+::o¡»am &
+os
+, cÚ¡ 
+	gIÁSub
+ &
+	gštSub
+) {
+
+14 
+	gos
+ << 
+	gštSub
+.
+	gidx
+ << "." << iÁSub.
+	gsubsüt
+ << 
+	g¡d
+::
+’dl
+;
+
+15  
+	gos
+;
+
+	@IntSub.h
+
+3 #iâdeà
+_INT_SUB_H_
+
+
+4 
+	#_INT_SUB_H_
+ 
+v®ue
+
+
+	)
+
+6 
+	~<io¡»am
+>
+
+8 şas 
+	cIÁSub
+ {
+
+9 
+	mpublic
+:
+
+10 
+IÁSub
+();
+
+11 
+IÁSub
+(
+idx
+, 
+sub
+);
+
+12 
+boŞ
+ 
+	mİ”©Ü
+<(cÚ¡ 
+	mIÁSub
+ &
+	mštSub
+) const;
+
+13 
+ä›nd
+ 
+	m¡d
+::
+o¡»am
+ & 
+İ”©Ü
+<<(
+¡d
+::o¡»am &
+os
+, cÚ¡ 
+	mIÁSub
+ &
+	mštSub
+);
+
+14 
+	m´iv©e
+:
+
+15 
+idx
+;
+
+16 
+	msubsüt
+;
+
+	@orderSelection.cpp
+
+1 
+	~<io¡»am
+>
+
+2 
+	~"IÁSub.h
+"
+
+4 
+usšg
+ 
+	g¡d
+::
+cout
+;
+
+5 
+usšg
+ 
+	g¡d
+::
+’dl
+;
+
+6 
+usšg
+ 
+	g¡d
+::
+o¡»am
+;
+
+8 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+>
+
+9 
+usšg
+ 
+	g»ÏtiÚ
+ = 
+	$boŞ
+ (*)(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+);
+
+11 
+‹m¶©e
+<
+ty³Çme
+ 
+Domaš
+,y³Çm
+R
+>
+
+12 cÚ¡ 
+Domaš
+& 
+	$£Ëù_0_2
+(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+, 
+R
+ 
+r
+) {
+
+13 ià(
+	`r
+(
+b
+, 
+a
+))  b;
+
+14  
+a
+;
+
+15 
+	}
+}
+
+17 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+18 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_1_2
+(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+, 
+R
+ 
+r
+) {
+
+19 ià(
+	`r
+(
+b
+, 
+a
+)) ‡;
+
+20  
+b
+;
+
+21 
+	}
+}
+
+23 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+24 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_0_3
+(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+, cÚ¡ Domaš& 
+c
+, 
+R
+ 
+r
+) {
+
+25  
+	`£Ëù_0_2
+(£Ëù_0_2(
+a
+, 
+b
+, 
+r
+), 
+c
+,„);
+
+26 
+	}
+}
+
+28 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+29 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_1_3
+(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+, cÚ¡ Domaš& 
+c
+, 
+R
+ 
+r
+) {
+
+30  
+	`£Ëù_0_2
+(
+	`£Ëù_1_2
+(
+a
+, 
+b
+, 
+r
+), 
+c
+,„);
+
+31 
+	}
+}
+
+33 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+34 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_2_3
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, 
+R
+ 
+r
+) {
+
+35  
+	`£Ëù_1_2
+(£Ëù_1_2(
+a
+, 
+b
+, 
+r
+), 
+c
+,„);
+
+36 
+	}
+}
+
+38 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+39 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_1_4_ab_cd
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, 
+R
+ 
+r
+) {
+
+40 ià(
+	`r
+(
+c
+, 
+a
+)è 
+	`£Ëù_0_2
+×, 
+d
+, 
+r
+);
+
+41  
+	`£Ëù_0_2
+(
+b
+, 
+c
+, 
+r
+);
+
+42 
+	}
+}
+
+44 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+45 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_1_4_ab
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, 
+R
+ 
+r
+) {
+
+46 ià(
+	`r
+(
+d
+, 
+c
+)è 
+	`£Ëù_1_4_ab_cd
+(
+a
+, 
+b
+, d, c, 
+r
+);
+
+47  
+	`£Ëù_1_4_ab_cd
+(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+r
+);
+
+48 
+	}
+}
+
+50 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+51 cÚ¡ 
+	gDomaš
+& 
+	$£Ëù_1_4
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, 
+R
+ 
+r
+) {
+
+52 ià(
+	`r
+(
+b
+, 
+a
+)è 
+	`£Ëù_1_4_ab
+(b,‡, 
+c
+, 
+d
+, 
+r
+);
+
+53  
+	`£Ëù_1_4_ab
+(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+r
+);
+
+54 
+	}
+}
+
+56 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+57 cÚ¡ 
+	gDomaš
+ & 
+	$£Ëù_2_5_ab_cd
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, cÚ¡ Domaš &
+e
+, 
+R
+ 
+r
+) {
+
+58 ià(
+	`r
+(
+c
+, 
+a
+)è 
+	`£Ëù_1_4
+×, 
+b
+, 
+d
+, 
+e
+, 
+r
+);
+
+59  
+	`£Ëù_1_4
+(
+c
+, 
+b
+, 
+d
+, 
+e
+, 
+r
+);
+
+60 
+	}
+}
+
+62 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+63 cÚ¡ 
+	gDomaš
+ & 
+	$£Ëù_2_5_ab
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, cÚ¡ Domaš &
+e
+, 
+R
+ 
+r
+) {
+
+64 ià(
+	`r
+(
+d
+, 
+c
+)è 
+	`£Ëù_2_5_ab_cd
+(
+a
+, 
+b
+, d, c, 
+e
+, 
+r
+);
+
+65  
+	`£Ëù_2_5_ab_cd
+(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+e
+, 
+r
+);
+
+66 
+	}
+}
+
+68 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+,y³Çm
+	gR
+>
+
+69 cÚ¡ 
+	gDomaš
+ & 
+	$£Ëù_2_5
+(cÚ¡ 
+Domaš
+ &
+a
+, cÚ¡ Domaš &
+b
+, cÚ¡ Domaš &
+c
+, cÚ¡ Domaš &
+d
+, cÚ¡ Domaš &
+e
+, 
+R
+ 
+r
+) {
+
+70 ià(
+	`r
+(
+b
+, 
+a
+)è 
+	`£Ëù_2_5_ab
+(b,‡, 
+c
+, 
+d
+, 
+e
+, 
+r
+);
+
+71  
+	`£Ëù_2_5_ab
+(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+e
+, 
+r
+);
+
+72 
+	}
+}
+
+75 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+>
+
+76 
+	scom·»_¡riù_Ü_»æexive
+ {
+
+77 
+boŞ
+ 
+İ”©Ü
+()(cÚ¡ 
+	mDomaš_R
+ &
+	ma
+, cÚ¡ Domaš_R &
+	mb
+, 
+R
+ 
+	mr
+) {
+
+78 ià(
+	mŸ
+ < 
+	mib
+)
+
+79  
+r
+(
+a
+, 
+b
+);
+
+81  !
+r
+(
+b
+, 
+a
+);
+
+85 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+>
+
+86 cÚ¡ 
+	gDomaš_R
+ & 
+	$£Ëù_0_2_¡ab™y
+(cÚ¡ 
+Domaš_R
+ &
+a
+, cÚ¡ Domaš_R &
+b
+, 
+R
+ 
+r
+) {
+
+87 
+com·»_¡riù_Ü_»æexive
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+> 
+cmp
+;
+
+89 ià(
+	`cmp
+(
+b
+, 
+a
+, 
+r
+)) ‡;
+
+90  
+b
+;
+
+92 
+	}
+}
+
+94 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+, 
+	gic
+, 
+	gid
+>
+
+95 cÚ¡ 
+	gDomaš_R
+ & 
+	$£Ëù_1_4_ab_cd_¡ab™y
+(cÚ¡ 
+Domaš_R
+ &
+a
+, cÚ¡ Domaš_R &
+b
+, cÚ¡ Domaš_R &
+c
+, cÚ¡ Domaš_R &
+d
+, 
+R
+ 
+r
+) {
+
+96 
+com·»_¡riù_Ü_»æexive
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ic
+> 
+cmp
+;
+
+98 ià(
+	`cmp
+(
+c
+, 
+a
+, 
+r
+)è 
+£Ëù_0_2_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+id
+>×, 
+d
+,„);
+
+99  
+£Ëù_0_2_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+ib
+, 
+ic
+>(
+b
+, 
+c
+, 
+r
+);
+
+100 
+	}
+}
+
+103 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+, 
+	gic
+, 
+	gid
+>
+
+104 cÚ¡ 
+	gDomaš_R
+ & 
+	$£Ëù_1_4_ab_¡ab™y
+(cÚ¡ 
+Domaš_R
+ &
+a
+, cÚ¡ Domaš_R &
+b
+, cÚ¡ Domaš_R &
+c
+, cÚ¡ Domaš_R &
+d
+, 
+R
+ 
+r
+) {
+
+105 
+com·»_¡riù_Ü_»æexive
+<
+Domaš_R
+, 
+R
+, 
+ic
+, 
+id
+> 
+cmp
+;
+
+107 ià(
+	`cmp
+(
+d
+, 
+c
+, 
+r
+)è 
+£Ëù_1_4_ab_cd_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+, 
+id
+, 
+ic
+>(
+a
+, 
+b
+, d, c,„);
+
+108  
+£Ëù_1_4_ab_cd_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+, 
+ic
+, 
+id
+>(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+r
+);
+
+109 
+	}
+}
+
+112 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+, 
+	gic
+, 
+	gid
+>
+
+113 cÚ¡ 
+	gDomaš_R
+ & 
+	$£Ëù_1_4_¡ab™y
+(cÚ¡ 
+Domaš_R
+ &
+a
+, cÚ¡ Domaš_R &
+b
+, cÚ¡ Domaš_R &
+c
+, cÚ¡ Domaš_R &
+d
+, 
+R
+ 
+r
+) {
+
+114 
+com·»_¡riù_Ü_»æexive
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+> 
+cmp
+;
+
+116 ià(
+	`cmp
+(
+b
+, 
+a
+, 
+r
+)è 
+£Ëù_1_4_ab_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+ib
+, 
+Ÿ
+, 
+ic
+, 
+id
+>(b,‡, 
+c
+, 
+d
+,„);
+
+117  
+£Ëù_1_4_ab_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+, 
+ic
+, 
+id
+>(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+r
+);
+
+118 
+	}
+}
+
+121 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš_R
+,y³Çm
+	gR
+, 
+	gŸ
+, 
+	gib
+, 
+	gic
+, 
+	gid
+, 
+	g›
+>
+
+122 cÚ¡ 
+	gDomaš_R
+ & 
+	$£Ëù_2_5_ab_cd_¡ab™y
+(cÚ¡ 
+Domaš_R
+ &
+a
+, cÚ¡ Domaš_R &
+b
+, cÚ¡ Domaš_R &
+c
+, cÚ¡ Domaš_R &
+d
+, cÚ¡ Domaš_R &
+e
+, 
+R
+ 
+r
+) {
+
+123 
+com·»_¡riù_Ü_»æexive
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ic
+> 
+cmp
+;
+
+125 ià(
+	`cmp
+(
+c
+, 
+a
+, 
+r
+)è 
+£Ëù_1_4_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+ic
+, 
+id
+, 
+ib
+, 
+›
+>(c, 
+d
+, 
+b
+, 
+e
+,„);
+
+126  
+£Ëù_1_4_¡ab™y
+<
+Domaš_R
+, 
+R
+, 
+Ÿ
+, 
+ib
+, 
+id
+, 
+›
+>(
+a
+, 
+b
+, 
+d
+, 
+e
+, 
+r
+);
+
+127 
+	}
+}
+
+131 
+	g‹m¶©e
+<
+ty³Çme
+ 
+	gDomaš
+>
+
+132 
+boŞ
+ 
+	$ËssThª
+(cÚ¡ 
+Domaš
+& 
+a
+, cÚ¡ Domaš& 
+b
+) {
+
+133  
+a
+ < 
+b
+;
+
+134 
+	}
+}
+
+136 
+	$maš
+() {
+
+137 
+IÁSub
+ 
+a
+ = 
+	`IÁSub
+(1, 1);
+
+138 
+IÁSub
+ 
+b
+ = 
+	`IÁSub
+(2, 2);
+
+139 
+IÁSub
+ 
+c
+ = 
+	`IÁSub
+(2, 3);
+
+140 
+IÁSub
+ 
+d
+ = 
+	`IÁSub
+(3, 4);
+
+141 
+IÁSub
+ 
+e
+ = 
+	`IÁSub
+(4, 5);
+
+143 
+cout
+ << "£Ëù_1_4: " << 
+	`£Ëù_1_4
+(
+c
+, 
+d
+, 
+b
+, 
+e
+, 
+ËssThª
+<
+IÁSub
+>è<< 
+’dl
+;
+
+144 
+cout
+ << "£Ëù_2_5: " << 
+	`£Ëù_2_5
+(
+a
+, 
+b
+, 
+c
+, 
+d
+, 
+e
+, 
+ËssThª
+<
+IÁSub
+>è<< 
+’dl
+;
+
+146 
+cout
+ << "£Ëù_0_2(¡ab™y): " << 
+£Ëù_0_2_¡ab™y
+<
+IÁSub
+, 
+»ÏtiÚ
+<IÁSub>, 1, 0>(
+a
+, 
+b
+, 
+ËssThª
+<IÁSub>è<< 
+’dl
+;
+
+150 
+	}
+}
+
+	@orderSelection_stability.cpp
+
+	@
+1
+.
+1
+/usr/include
+4
+68
+IntSub.cpp
+IntSub.h
+orderSelection.cpp
+orderSelection_stability.cpp
